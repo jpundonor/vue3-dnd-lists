@@ -16,7 +16,7 @@ Users can move items between lists and delete items by dragging them to a design
 ## Installation
 
 ```bash
-npm install @vue3-dnd-lists
+npm install vue3-dnd-lists
 ```
 
 
