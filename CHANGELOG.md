@@ -11,3 +11,7 @@
 
 ### Changed
 - Updated documentation and links
+
+## [1.0.2] - 2025-02-17
+### Changed
+- Updated `README.md`
